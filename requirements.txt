@@ -12,3 +12,5 @@ sqlparse
 toml
 typed-ast
 wrapt
+validate-docbr
+faker
